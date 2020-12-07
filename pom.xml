@@ -1,5 +1,9 @@
 <spring>
   <dependency>
+<starter>
+</starter>
+<parent>
+</parent>
     <exclude> TomCat </exclude>
   </dependency>
 </spring>
