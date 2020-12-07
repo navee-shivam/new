@@ -1,2 +1,5 @@
 <spring>
+  <dependency>
+    <exclude> TomCat </exclude>
+  </dependency>
 </spring>
